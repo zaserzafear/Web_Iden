@@ -1,0 +1,75 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+.border-md {
+    border-width: 2px!important ;
+}
+
+.btn-facebook {
+    background: #405D9D!important ;
+    border: none!important ;
+}
+
+.btn-facebook:hover, .btn-facebook:focus {
+    background: #314879!important ;
+}
+
+.btn-twitter {
+    background: #42AEEC!important ;
+    border: none!important ;
+}
+
+.btn-twitter:hover, .btn-twitter:focus {
+    background: #1799e4!important ;
+}
+
+
+
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+
+.form-control{
+    border-radius: 0.9rem !important;
+}
+.form-control:not(select) {
+    padding: 1.52rem 0.5rem !important ;
+}
+.mb-35{
+    margin-bottom: 18px;
+}
+select.form-control {
+    height: 45px!important ;
+    padding-left: 0.5rem!important ;
+}
+
+.form-control::placeholder {
+    color: #ccc!important ;
+    font-weight: 300!important ;
+    font-size: 16px!important ;
+}
+.form-control:focus {
+    box-shadow: none!important ;
+}
+.form-control:focus,.form-control:focus {
+    border: 1px solid #2421D2!important;
+  }
+  .ui.calendar{
+    min-width: 100% !important;
+    width: 100%!important   ;
+  }
+  
+
+  .input-css p,.input-css input,.input-css select,.input-css a{
+    font-size: 17px;
+    font-weight: 400;
+  }
